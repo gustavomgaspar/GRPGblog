@@ -47,12 +47,12 @@ main{
     
     margin-top: 0.9em;
 }
-.carrossel{
+.owl-carousel{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.carrossel img{
+.owl-carousel div a img{
     width: 1500px;
     height: 400px;
     border-radius: 10px;
